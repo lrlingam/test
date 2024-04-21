@@ -1,0 +1,3 @@
+ tasks:
+    - name: Install zip
+      apt: name=zip state=present
